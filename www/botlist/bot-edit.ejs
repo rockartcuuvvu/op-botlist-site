@@ -65,12 +65,6 @@
                     <input type="text" name="github" id="github" value="<%= botdata.github %>" class="form-control" placeholder=""/>
                   <% } %>
               </div>
-              <% if(botdata.certificate === "Certified") { %>
-              <div class="form-group">
-                <label><i class="fad fa-robot"></i> Private URL</label>
-                    <input type="text" name="privateURL" id="privateURL" class="form-control" placeholder="https://op.xyz/bot/@"/>
-              </div>
-              <% } %>
           </div>
           <div class="col-md-6">
             <div class="form-group">
@@ -109,7 +103,7 @@
      title: 'Successful...',
      closeOnConfirm: false,
      text: urlParams.get('message'),
-     footer: 'Copyright 2021 &copy www.op.xyz - All right reserved.'
+     footer: 'Copyright 2021 &copy op.xyz - All right reserved.'
     }).then((result) => {
   if (result.isConfirmed) {
     window.location.href = `/bot/${urlParams.get('botID')}`;
@@ -121,7 +115,7 @@
      icon: 'error',
      title: 'Oops...',
      text: urlParams.get('message'),
-     footer: 'Copyright 2021 &copy www.op.xyz - All right reserved.'
+     footer: 'Copyright 2021 &copy op.xyz - All right reserved.'
     }).then((result) => {
   if (result.isConfirmed) {
     window.location.href = '/addbot';
