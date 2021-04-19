@@ -53,7 +53,7 @@
      title: 'Succesfull...',
      closeOnConfirm: false,
      text: urlParams.get('message'),
-     footer: 'Copyright 2021 &copy www.op.xyz - All right reserved.'
+     footer: 'Copyright 2021 &copy op.xyz - All right reserved.'
     }).then((result) => {
   if (result.isConfirmed) {
     window.location.href = `/bot/${urlParams.get('botID')}`;
@@ -65,7 +65,7 @@
      icon: 'error',
      title: 'Oops...',
      text: urlParams.get('message'),
-     footer: 'Copyright 2021 &copy www.op.xyz - All right reserved.'
+     footer: 'Copyright 2021 &copy op.xyz - All right reserved.'
     }).then((result) => {
   if (result.isConfirmed) {
     window.location.href = '/addbot';
