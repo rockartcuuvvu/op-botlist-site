@@ -40,4 +40,4 @@ Fill in the json files, link the required information and now it's ready.
 - You can't speak in a "we did it" way.
 - You cannot sell it.
 
-# Support Server [Click Here] (https://discord.gg/gn24nq4RGp)
+# Support Server [Click Here](https://discord.gg/gn24nq4RGp)
