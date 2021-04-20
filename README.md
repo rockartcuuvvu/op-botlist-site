@@ -42,4 +42,11 @@ Fill in the json files, link the required information and now it's ready.
 
 # Support Server [Click Here](https://discord.gg/gn24nq4RGp)
 
-https://9f40319f-9e88-4a0f-9aee-8b25368c02c8@api.glitch.com/git/veil-truthful-cast
+<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+  <iframe
+    src="https://glitch.com/embed/#!/embed/veil-truthful-cast?path=settings.json&previewSize=100"
+    title="veil-truthful-cast on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
