@@ -41,3 +41,5 @@ Fill in the json files, link the required information and now it's ready.
 - You cannot sell it.
 
 # Support Server [Click Here](https://discord.gg/gn24nq4RGp)
+
+https://9f40319f-9e88-4a0f-9aee-8b25368c02c8@api.glitch.com/git/veil-truthful-cast
