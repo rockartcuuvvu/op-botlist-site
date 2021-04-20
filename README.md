@@ -41,12 +41,4 @@ Fill in the json files, link the required information and now it's ready.
 - You cannot sell it.
 
 # Support Server [Click Here](https://discord.gg/gn24nq4RGp)
-
-<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
-  <iframe
-    src="https://glitch.com/embed/#!/embed/veil-truthful-cast?path=settings.json&previewSize=100"
-    title="veil-truthful-cast on Glitch"
-    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>
+https://glitch.com/edit/#!/veil-truthful-cast?previewSize=0&attributionHidden=true&sidebarCollapsed=false&path=settings.json&previewFirst=false
