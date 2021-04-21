@@ -1,12 +1,12 @@
 {
-  "token": "Your Token",
-  "prefix" : "Your Prefix",
+  "token": "",
+  "prefix" : "+",
   "owner" : ["","",""],
-  "clientid" : "BOT ID",
-  "clientsecret" : "BOT SECRET",
-  "clientcallback" : "https://yourdomain/callback",
-  "mongoURL" : "your mongodb url",
-  "serverID": "ID SERVER",
-  "footer": "GG?",
+  "clientid" : "",
+  "clientsecret" : "",
+  "clientcallback" : "",
+  "mongoURL" : "",
+  "serverID": "",
+  "footer": "GLOBAL FOOTER",
   "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
 }

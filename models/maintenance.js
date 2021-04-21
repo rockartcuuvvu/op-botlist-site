@@ -5,4 +5,4 @@ reason: String,
 bakimmsg: String
 });
 
-module.exports = mongoose.model("bakim", hm);
+module.exports = mongoose.model("maintenance", hm);

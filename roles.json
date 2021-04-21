@@ -3,9 +3,9 @@
   "moderator": "",
 
   "websitedeveloper" : "",
-  "booster": "",
-  "sponsor": "",
-  "supporter": "",
+  "booster": "SERVER BOOSTER ROLE ID",
+  "sponsor": "SPONSOR ROLE ID",
+  "supporter": "SUPPORTER ROLE ID",
 
   "developer": "",
   "certified_developer": "",
